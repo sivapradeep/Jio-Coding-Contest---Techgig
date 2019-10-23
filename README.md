@@ -1,5 +1,5 @@
 # Jio-Coding-Contest---Techgig
-TECHGIG Code Gladiators 2019 - Presented by JIO....
+TECHGIG Code Gladiators 2019 - Presented by JIO...
 Open Contest - Code Gladiators 2019 - Win or Lose.
 
 
